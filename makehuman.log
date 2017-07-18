@@ -1,0 +1,892 @@
+[2017-07-16 13:15:08,180] log.py->message():133 -- MESSAGE -- Initialized logging
+[2017-07-16 13:15:08,183] log.py->debug():112 -- DEBUG -- VERSION: 1.1.1
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- HG REVISION: r2128 (2d119491670c) [data/VERSION static revision data]
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- SHORT VERSION: v1.1.1
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- BASEMESH VERSION: hm08
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- IS BUILT (FROZEN): Yes
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- IS RELEASE VERSION: Yes
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- DEFAULT ENCODING: utf-8
+[2017-07-16 13:15:08,184] log.py->debug():112 -- DEBUG -- FILESYSTEM ENCODING: mbcs
+[2017-07-16 13:15:08,186] log.py->debug():112 -- DEBUG -- STDOUT ENCODING: cp1252
+[2017-07-16 13:15:08,186] log.py->debug():112 -- DEBUG -- WORKING DIRECTORY: D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1
+[2017-07-16 13:15:08,186] log.py->debug():112 -- DEBUG -- HOME LOCATION: C:/Users/CHARITY/Documents
+[2017-07-16 13:15:08,187] log.py->debug():112 -- DEBUG -- PYTHON PATH: ./;./lib;./apps;./shared;./apps/gui;./core;D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1
+[2017-07-16 13:15:08,187] log.py->debug():112 -- DEBUG -- DLL PATH: .;D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\MySQL\MySQL Utilities\;C:\Program Files (x86)\MySQL\MySQL Utilities\Doctrine extensions for PHP\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\CHARITY\Anaconda3;C:\Users\CHARITY\Anaconda3\Scripts;C:\Users\CHARITY\Anaconda3\Library\bin
+[2017-07-16 13:15:08,187] log.py->debug():112 -- DEBUG -- SYS.VERSION: 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:42:59) [MSC v.1500 32 bit (Intel)]
+[2017-07-16 13:15:08,187] log.py->debug():112 -- DEBUG -- SYS.PLATFORM: win32
+[2017-07-16 13:15:08,187] log.py->debug():112 -- DEBUG -- SYS.EXECUTABLE: D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1\makehuman.exe
+[2017-07-16 13:15:08,200] log.py->debug():112 -- DEBUG -- PLATFORM.MACHINE: AMD64
+[2017-07-16 13:15:08,201] log.py->debug():112 -- DEBUG -- PLATFORM.PROCESSOR: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+[2017-07-16 13:15:08,201] log.py->debug():112 -- DEBUG -- PLATFORM.UNAME.RELEASE: 7
+[2017-07-16 13:15:08,201] log.py->debug():112 -- DEBUG -- PLATFORM.WIN32_VER: 7 6.1.7600 SP0 Multiprocessor Free
+[2017-07-16 13:15:08,825] log.py->debug():112 -- DEBUG -- NUMPY.VERSION: 1.11.2
+[2017-07-16 13:15:08,865] acceleratesupport.py-><module>():13 -- MESSAGE -- OpenGL_accelerate module loaded
+[2017-07-16 13:15:09,012] arraydatatype.py-><module>():270 -- MESSAGE -- Using accelerated ArrayDatatype
+[2017-07-16 13:15:10,710] log.py->debug():112 -- DEBUG -- PYQT.VERSION: 4.8.7
+[2017-07-16 13:15:11,275] log.py->debug():112 -- DEBUG -- PYQT.JPG_SUPPORT: supported
+[2017-07-16 13:15:11,276] log.py->debug():112 -- DEBUG -- PYQT.SVG_SUPPORT: supported
+[2017-07-16 13:15:11,276] log.py->debug():112 -- DEBUG -- QT.PLUGIN_PATH: D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1\qt4_plugins;D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1
+[2017-07-16 13:15:11,276] log.py->debug():112 -- DEBUG -- QT.PLUGIN_PATH_ENV: 
+[2017-07-16 13:15:11,278] log.py->debug():112 -- DEBUG -- QT.CONF: [Paths]
+         Prefix = .
+         Plugins = qt4_plugins
+[2017-07-16 13:15:11,638] log.py->debug():112 -- DEBUG -- PYOPENGL.VERSION: 3.1.0
+[2017-07-16 13:15:11,640] log.py->debug():112 -- DEBUG -- GL.VENDOR: Intel
+[2017-07-16 13:15:11,641] log.py->debug():112 -- DEBUG -- GL.RENDERER: Intel(R) HD Graphics 4000
+[2017-07-16 13:15:11,642] log.py->debug():112 -- DEBUG -- GL.VERSION: 4.0.0 - Build 10.18.10.3304
+[2017-07-16 13:15:11,648] log.py->debug():112 -- DEBUG -- GLSL.VERSION: 4.00 - Build 10.18.10.3304
+[2017-07-16 13:15:11,651] numpymodule.py-><module>():30 -- WARNING -- Unable to load numpy_formathandler accelerator from OpenGL_accelerate
+[2017-07-16 13:15:11,653] log.py->debug():112 -- DEBUG -- GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+[2017-07-16 13:15:11,657] log.py->debug():112 -- DEBUG -- Creating new texture for image data/textures/texture_notfound.png.
+[2017-07-16 13:15:11,724] log.py->debug():112 -- DEBUG -- GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+[2017-07-16 13:15:11,759] log.py->debug():112 -- DEBUG -- initTexture: 256, 256, False
+[2017-07-16 13:15:11,956] log.py->debug():112 -- DEBUG -- Setting language to english
+[2017-07-16 13:15:12,016] log.py->debug():112 -- DEBUG -- Setting language to english
+[2017-07-16 13:15:12,020] log.py->message():133 -- MESSAGE -- Initializing default theme first.
+[2017-07-16 13:15:12,023] log.py->message():133 -- MESSAGE -- Theme default version 1.1.0
+[2017-07-16 13:15:12,026] log.py->debug():112 -- DEBUG -- Loaded theme data/themes/default.mht
+[2017-07-16 13:15:12,028] log.py->debug():112 -- DEBUG -- Using Qt system style windowsvista
+[2017-07-16 13:15:13,107] log.py->message():133 -- MESSAGE -- Loading human
+[2017-07-16 13:15:13,135] log.py->debug():112 -- DEBUG -- Loading binary mesh data/3dobjs/base.npz.
+[2017-07-16 13:15:13,427] log.py->debug():112 -- DEBUG -- Loading material from file data/skins/default.mhmat
+[2017-07-16 13:15:13,548] GL_2_0.py->glGetActiveUniform():374 -- WARNING -- D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1\OpenGL\GL\VERSION\GL_2_0.py:374: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+
+[2017-07-16 13:15:13,650] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 13:15:13,653] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProj
+[2017-07-16 13:15:13,654] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_NormalMatrix
+[2017-07-16 13:15:13,654] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 13:15:14,236] log.py->message():133 -- MESSAGE -- Loaded vertex weights MakeHuman weights from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/rigs/default_weights.mhw
+[2017-07-16 13:15:15,134] log.py->message():133 -- MESSAGE -- Loading scene
+[2017-07-16 13:15:15,144] log.py->debug():112 -- DEBUG -- Loading scene file: data/scenes/default.mhscene
+[2017-07-16 13:15:15,147] log.py->message():133 -- MESSAGE -- Loading main GUI
+[2017-07-16 13:15:15,158] log.py->debug():112 -- DEBUG -- Assigning setting loaddir value C:/Users/CHARITY/Documents/makehuman/v1/models that was loaded before the setting was declared.
+[2017-07-16 13:15:15,165] log.py->debug():112 -- DEBUG -- Assigning setting savedir value D:\NJAI FILES (do not delete)\3d  models that was loaded before the setting was declared.
+[2017-07-16 13:15:15,171] log.py->debug():112 -- DEBUG -- Assigning setting exportdir value D:\NJAI FILES (do not delete)\3d  models that was loaded before the setting was declared.
+[2017-07-16 13:15:15,186] log.py->message():133 -- MESSAGE -- Loading plugins
+[2017-07-16 13:15:15,326] log.py->message():133 -- MESSAGE -- Importing plugin 0_modeling_0_modifiers
+[2017-07-16 13:15:15,349] log.py->message():133 -- MESSAGE -- Imported plugin 0_modeling_0_modifiers
+[2017-07-16 13:15:15,354] log.py->message():133 -- MESSAGE -- Loading plugin 0_modeling_0_modifiers
+[2017-07-16 13:15:15,357] log.py->debug():112 -- DEBUG -- Loading modifiers from data/modifiers/modeling_modifiers.json
+[2017-07-16 13:15:15,387] log.py->debug():112 -- DEBUG -- Attempting to load targets from NPZ file.
+[2017-07-16 13:15:16,650] log.py->debug():112 -- DEBUG -- 1258 targets loaded from NPZ file succesfully.
+[2017-07-16 13:15:18,362] log.py->message():133 -- MESSAGE -- Loaded 249 modifiers from file data/modifiers/modeling_modifiers.json
+[2017-07-16 13:15:18,446] log.py->message():133 -- MESSAGE -- Loaded 249 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+[2017-07-16 13:15:20,780] log.py->message():133 -- MESSAGE -- Loaded plugin 0_modeling_0_modifiers
+[2017-07-16 13:15:20,835] log.py->message():133 -- MESSAGE -- Importing plugin 0_modeling_8_random
+[2017-07-16 13:15:20,864] log.py->message():133 -- MESSAGE -- Imported plugin 0_modeling_8_random
+[2017-07-16 13:15:20,868] log.py->message():133 -- MESSAGE -- Loading plugin 0_modeling_8_random
+[2017-07-16 13:15:20,880] log.py->message():133 -- MESSAGE -- Loaded plugin 0_modeling_8_random
+[2017-07-16 13:15:20,884] log.py->message():133 -- MESSAGE -- Importing plugin 0_modeling_9_custom_targets
+[2017-07-16 13:15:20,897] log.py->message():133 -- MESSAGE -- Imported plugin 0_modeling_9_custom_targets
+[2017-07-16 13:15:20,900] log.py->message():133 -- MESSAGE -- Loading plugin 0_modeling_9_custom_targets
+[2017-07-16 13:15:20,933] log.py->message():133 -- MESSAGE -- Loaded plugin 0_modeling_9_custom_targets
+[2017-07-16 13:15:20,938] log.py->message():133 -- MESSAGE -- Importing plugin 0_modeling_a_measurement
+[2017-07-16 13:15:20,973] log.py->message():133 -- MESSAGE -- Imported plugin 0_modeling_a_measurement
+[2017-07-16 13:15:20,976] log.py->message():133 -- MESSAGE -- Loading plugin 0_modeling_a_measurement
+[2017-07-16 13:15:20,980] log.py->debug():112 -- DEBUG -- Loading modifiers from data/modifiers/measurement_modifiers.json
+[2017-07-16 13:15:20,993] log.py->message():133 -- MESSAGE -- Loaded 20 modifiers from file data/modifiers/measurement_modifiers.json
+[2017-07-16 13:15:21,000] log.py->message():133 -- MESSAGE -- Loaded 20 modifier descriptions from file data/modifiers/measurement_modifiers_desc.json
+[2017-07-16 13:15:21,075] log.py->message():133 -- MESSAGE -- Loaded plugin 0_modeling_a_measurement
+[2017-07-16 13:15:21,089] log.py->message():133 -- MESSAGE -- Importing plugin 0_modeling_background
+[2017-07-16 13:15:21,111] log.py->message():133 -- MESSAGE -- Imported plugin 0_modeling_background
+[2017-07-16 13:15:21,114] log.py->message():133 -- MESSAGE -- Loading plugin 0_modeling_background
+[2017-07-16 13:15:21,157] log.py->message():133 -- MESSAGE -- Loaded plugin 0_modeling_background
+[2017-07-16 13:15:21,165] log.py->message():133 -- MESSAGE -- Importing plugin 2_foot_posing
+[2017-07-16 13:15:21,186] log.py->message():133 -- MESSAGE -- Imported plugin 2_foot_posing
+[2017-07-16 13:15:21,188] log.py->message():133 -- MESSAGE -- Loading plugin 2_foot_posing
+[2017-07-16 13:15:21,194] log.py->message():133 -- MESSAGE -- Loaded plugin 2_foot_posing
+[2017-07-16 13:15:21,197] log.py->message():133 -- MESSAGE -- Importing plugin 2_posing_expression
+[2017-07-16 13:15:21,210] log.py->message():133 -- MESSAGE -- Imported plugin 2_posing_expression
+[2017-07-16 13:15:21,213] log.py->message():133 -- MESSAGE -- Loading plugin 2_posing_expression
+[2017-07-16 13:15:21,226] log.py->message():133 -- MESSAGE -- Loaded plugin 2_posing_expression
+[2017-07-16 13:15:21,230] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_clothes_chooser
+[2017-07-16 13:15:21,243] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_clothes_chooser
+[2017-07-16 13:15:21,247] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_clothes_chooser
+[2017-07-16 13:15:21,288] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_clothes_chooser
+[2017-07-16 13:15:21,293] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_eye_chooser
+[2017-07-16 13:15:21,315] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_eye_chooser
+[2017-07-16 13:15:21,319] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_eye_chooser
+[2017-07-16 13:15:21,344] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+[2017-07-16 13:15:21,348] log.py->debug():112 -- DEBUG -- Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+[2017-07-16 13:15:21,368] log.py->debug():112 -- DEBUG -- Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+[2017-07-16 13:15:21,404] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/eyes/materials/brown.mhmat
+[2017-07-16 13:15:21,424] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 13:15:21,427] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProj
+[2017-07-16 13:15:21,427] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_NormalMatrix
+[2017-07-16 13:15:21,427] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 13:15:21,431] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/eyes/high-poly/high-poly.npz.
+[2017-07-16 13:15:21,782] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_eye_chooser
+[2017-07-16 13:15:21,789] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_eyebrows
+[2017-07-16 13:15:21,875] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_eyebrows
+[2017-07-16 13:15:21,878] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_eyebrows
+[2017-07-16 13:15:21,969] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_eyebrows
+[2017-07-16 13:15:21,974] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_eyelashes
+[2017-07-16 13:15:21,983] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_eyelashes
+[2017-07-16 13:15:21,987] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_eyelashes
+[2017-07-16 13:15:22,000] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_eyelashes
+[2017-07-16 13:15:22,006] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_material_chooser
+[2017-07-16 13:15:22,017] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_material_chooser
+[2017-07-16 13:15:22,022] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_material_chooser
+[2017-07-16 13:15:22,040] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_material_chooser
+[2017-07-16 13:15:22,046] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_polygon_hair_chooser
+[2017-07-16 13:15:22,053] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_polygon_hair_chooser
+[2017-07-16 13:15:22,056] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_polygon_hair_chooser
+[2017-07-16 13:15:22,091] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_polygon_hair_chooser
+[2017-07-16 13:15:22,096] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_pose
+[2017-07-16 13:15:22,117] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_pose
+[2017-07-16 13:15:22,121] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_pose
+[2017-07-16 13:15:22,131] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_pose
+[2017-07-16 13:15:22,138] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_proxy_chooser
+[2017-07-16 13:15:22,148] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_proxy_chooser
+[2017-07-16 13:15:22,151] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_proxy_chooser
+[2017-07-16 13:15:22,168] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_proxy_chooser
+[2017-07-16 13:15:22,174] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_skeleton
+[2017-07-16 13:15:22,194] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_skeleton
+[2017-07-16 13:15:22,197] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_skeleton
+[2017-07-16 13:15:22,209] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_skeleton
+[2017-07-16 13:15:22,214] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_teeth
+[2017-07-16 13:15:22,220] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_teeth
+[2017-07-16 13:15:22,224] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_teeth
+[2017-07-16 13:15:22,246] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_teeth
+[2017-07-16 13:15:22,253] log.py->message():133 -- MESSAGE -- Importing plugin 3_libraries_tongue
+[2017-07-16 13:15:22,259] log.py->message():133 -- MESSAGE -- Imported plugin 3_libraries_tongue
+[2017-07-16 13:15:22,263] log.py->message():133 -- MESSAGE -- Loading plugin 3_libraries_tongue
+[2017-07-16 13:15:22,273] log.py->message():133 -- MESSAGE -- Loaded plugin 3_libraries_tongue
+[2017-07-16 13:15:22,279] log.py->message():133 -- MESSAGE -- Importing plugin 4_rendering_9_viewer
+[2017-07-16 13:15:22,286] log.py->message():133 -- MESSAGE -- Imported plugin 4_rendering_9_viewer
+[2017-07-16 13:15:22,289] log.py->message():133 -- MESSAGE -- Loading plugin 4_rendering_9_viewer
+[2017-07-16 13:15:22,299] log.py->message():133 -- MESSAGE -- Loaded plugin 4_rendering_9_viewer
+[2017-07-16 13:15:22,305] log.py->message():133 -- MESSAGE -- Importing plugin 4_rendering_opengl
+[2017-07-16 13:15:22,322] log.py->message():133 -- MESSAGE -- Imported plugin 4_rendering_opengl
+[2017-07-16 13:15:22,325] log.py->message():133 -- MESSAGE -- Loading plugin 4_rendering_opengl
+[2017-07-16 13:15:22,332] log.py->debug():112 -- DEBUG -- Assigning setting rendering_width value 800 that was loaded before the setting was declared.
+[2017-07-16 13:15:22,332] log.py->debug():112 -- DEBUG -- Assigning setting rendering_height value 600 that was loaded before the setting was declared.
+[2017-07-16 13:15:22,332] log.py->debug():112 -- DEBUG -- Assigning setting GL_RENDERER_SSS value False that was loaded before the setting was declared.
+[2017-07-16 13:15:22,334] log.py->debug():112 -- DEBUG -- Assigning setting GL_RENDERER_AA value True that was loaded before the setting was declared.
+[2017-07-16 13:15:22,342] log.py->message():133 -- MESSAGE -- Loaded plugin 4_rendering_opengl
+[2017-07-16 13:15:22,348] log.py->message():133 -- MESSAGE -- Importing plugin 4_rendering_scene
+[2017-07-16 13:15:22,355] log.py->message():133 -- MESSAGE -- Imported plugin 4_rendering_scene
+[2017-07-16 13:15:22,358] log.py->message():133 -- MESSAGE -- Loading plugin 4_rendering_scene
+[2017-07-16 13:15:22,364] mhmain.py->addSetting():326 -- NOTICE -- Setting rendering_width is already declared. Adding it again has no effect.
+[2017-07-16 13:15:22,368] mhmain.py->addSetting():326 -- NOTICE -- Setting rendering_height is already declared. Adding it again has no effect.
+[2017-07-16 13:15:22,375] log.py->message():133 -- MESSAGE -- Loaded plugin 4_rendering_scene
+[2017-07-16 13:15:22,381] log.py->message():133 -- MESSAGE -- Importing plugin 5_settings_0_settings
+[2017-07-16 13:15:22,391] log.py->message():133 -- MESSAGE -- Imported plugin 5_settings_0_settings
+[2017-07-16 13:15:22,394] log.py->message():133 -- MESSAGE -- Loading plugin 5_settings_0_settings
+[2017-07-16 13:15:22,533] log.py->debug():112 -- DEBUG -- Setting language to english
+[2017-07-16 13:15:22,536] log.py->message():133 -- MESSAGE -- Theme makehuman version 1.1.0
+[2017-07-16 13:15:22,545] log.py->debug():112 -- DEBUG -- Loaded theme data/themes/makehuman.mht
+[2017-07-16 13:15:25,374] log.py->debug():112 -- DEBUG -- Loaded Qt style data/themes/makehuman.qss
+[2017-07-16 13:15:25,641] log.py->message():133 -- MESSAGE -- Loaded plugin 5_settings_0_settings
+[2017-07-16 13:15:25,671] log.py->message():133 -- MESSAGE -- Importing plugin 5_settings_mouse
+[2017-07-16 13:15:25,776] log.py->message():133 -- MESSAGE -- Imported plugin 5_settings_mouse
+[2017-07-16 13:15:25,779] log.py->message():133 -- MESSAGE -- Loading plugin 5_settings_mouse
+[2017-07-16 13:15:25,798] log.py->message():133 -- MESSAGE -- Loaded plugin 5_settings_mouse
+[2017-07-16 13:15:25,806] log.py->message():133 -- MESSAGE -- Importing plugin 5_settings_shortcuts
+[2017-07-16 13:15:25,819] log.py->message():133 -- MESSAGE -- Imported plugin 5_settings_shortcuts
+[2017-07-16 13:15:25,822] log.py->message():133 -- MESSAGE -- Loading plugin 5_settings_shortcuts
+[2017-07-16 13:15:25,871] log.py->message():133 -- MESSAGE -- Loaded plugin 5_settings_shortcuts
+[2017-07-16 13:15:25,881] log.py->message():133 -- MESSAGE -- Importing plugin 6_help
+[2017-07-16 13:15:25,931] log.py->message():133 -- MESSAGE -- Imported plugin 6_help
+[2017-07-16 13:15:25,936] log.py->message():133 -- MESSAGE -- Loading plugin 6_help
+[2017-07-16 13:15:25,956] log.py->message():133 -- MESSAGE -- Loaded plugin 6_help
+[2017-07-16 13:15:25,964] log.py->message():133 -- MESSAGE -- Importing plugin 7_expression_mixer
+[2017-07-16 13:15:25,976] log.py->message():133 -- MESSAGE -- Imported plugin 7_expression_mixer
+[2017-07-16 13:15:25,980] log.py->message():133 -- MESSAGE -- Loading plugin 7_expression_mixer
+[2017-07-16 13:15:26,009] log.py->message():133 -- MESSAGE -- Loaded plugin 7_expression_mixer
+[2017-07-16 13:15:26,016] log.py->message():133 -- MESSAGE -- Importing plugin 7_logging
+[2017-07-16 13:15:26,029] log.py->message():133 -- MESSAGE -- Imported plugin 7_logging
+[2017-07-16 13:15:26,032] log.py->message():133 -- MESSAGE -- Loading plugin 7_logging
+[2017-07-16 13:15:26,069] log.py->message():133 -- MESSAGE -- Loaded plugin 7_logging
+[2017-07-16 13:15:26,078] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_bvh
+[2017-07-16 13:15:26,091] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_bvh
+[2017-07-16 13:15:26,094] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_bvh
+[2017-07-16 13:15:26,101] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_bvh
+[2017-07-16 13:15:26,105] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_collada
+[2017-07-16 13:15:26,128] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_collada
+[2017-07-16 13:15:26,131] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_collada
+[2017-07-16 13:15:26,145] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_collada
+[2017-07-16 13:15:26,151] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_fbx
+[2017-07-16 13:15:26,180] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_fbx
+[2017-07-16 13:15:26,184] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_fbx
+[2017-07-16 13:15:26,190] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_fbx
+[2017-07-16 13:15:26,197] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_light
+[2017-07-16 13:15:26,203] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_light
+[2017-07-16 13:15:26,207] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_light
+[2017-07-16 13:15:26,210] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_light
+[2017-07-16 13:15:26,217] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_mhx2
+[2017-07-16 13:15:26,240] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_mhx2
+[2017-07-16 13:15:26,243] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_mhx2
+[2017-07-16 13:15:26,250] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_mhx2
+[2017-07-16 13:15:26,256] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_obj
+[2017-07-16 13:15:26,263] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_obj
+[2017-07-16 13:15:26,267] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_obj
+[2017-07-16 13:15:26,276] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_obj
+[2017-07-16 13:15:26,282] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_ogre
+[2017-07-16 13:15:26,311] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_ogre
+[2017-07-16 13:15:26,313] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_ogre
+[2017-07-16 13:15:26,321] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_ogre
+[2017-07-16 13:15:26,325] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_stl
+[2017-07-16 13:15:26,334] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_stl
+[2017-07-16 13:15:26,338] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_stl
+[2017-07-16 13:15:26,345] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_stl
+[2017-07-16 13:15:26,351] log.py->message():133 -- MESSAGE -- Importing plugin 9_export_uvmap
+[2017-07-16 13:15:26,357] log.py->message():133 -- MESSAGE -- Imported plugin 9_export_uvmap
+[2017-07-16 13:15:26,359] log.py->message():133 -- MESSAGE -- Loading plugin 9_export_uvmap
+[2017-07-16 13:15:26,365] log.py->message():133 -- MESSAGE -- Loaded plugin 9_export_uvmap
+[2017-07-16 13:15:26,371] log.py->message():133 -- MESSAGE -- Loading GUI
+[2017-07-16 13:15:26,460] log.py->debug():112 -- DEBUG -- showing category Modelling
+[2017-07-16 13:15:26,461] log.py->debug():112 -- DEBUG -- showing task Macro modelling
+[2017-07-16 13:15:26,561] log.py->message():133 -- MESSAGE -- Loading theme
+[2017-07-16 13:15:26,565] log.py->message():133 -- MESSAGE -- Theme makehuman version 1.1.0
+[2017-07-16 13:15:26,575] log.py->debug():112 -- DEBUG -- Loaded theme data/themes/makehuman.mht
+[2017-07-16 13:15:28,940] log.py->debug():112 -- DEBUG -- Loaded Qt style data/themes/makehuman.qss
+[2017-07-16 13:15:29,029] log.py->message():133 -- MESSAGE -- Applying targets
+[2017-07-16 13:15:29,427] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 13:15:29,558] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 13:15:29,720] log.py->message():133 -- MESSAGE -- Loading macro targets
+[2017-07-16 13:15:38,625] log.py->message():133 -- MESSAGE -- Loading done
+[2017-07-16 13:15:38,628] log.py->message():133 -- MESSAGE -- 
+[2017-07-16 13:15:39,348] log.py->debug():112 -- DEBUG -- Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2017-07-16 13:15:39,351] log.py->debug():112 -- DEBUG -- initTexture: 256, 256, False
+[2017-07-16 13:15:39,365] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/litspheres/skinmat_eye.png.
+[2017-07-16 13:15:39,426] log.py->debug():112 -- DEBUG -- initTexture: 256, 256, False
+[2017-07-16 13:15:39,426] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/eyes/materials/brown_eye.png.
+[2017-07-16 13:15:39,608] log.py->debug():112 -- DEBUG -- initTexture: 1024, 1024, False
+[2017-07-16 13:15:47,256] log.py->debug():112 -- DEBUG -- hiding task Macro modelling
+[2017-07-16 13:15:47,256] log.py->debug():112 -- DEBUG -- showing task Face
+[2017-07-16 14:52:23,477] log.py->debug():112 -- DEBUG -- hiding task Face
+[2017-07-16 14:52:23,479] log.py->debug():112 -- DEBUG -- showing task Arms and Legs
+[2017-07-16 14:52:24,279] log.py->debug():112 -- DEBUG -- hiding task Arms and Legs
+[2017-07-16 14:52:24,279] log.py->debug():112 -- DEBUG -- showing task Torso
+[2017-07-16 14:52:24,769] log.py->debug():112 -- DEBUG -- hiding task Torso
+[2017-07-16 14:52:24,770] log.py->debug():112 -- DEBUG -- showing task Face
+[2017-07-16 14:52:25,290] log.py->debug():112 -- DEBUG -- hiding task Face
+[2017-07-16 14:52:25,292] log.py->debug():112 -- DEBUG -- showing task Gender
+[2017-07-16 14:52:27,019] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:52:27,207] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:52:27,414] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:52:28,178] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:52:28,368] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:52:28,569] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:52:29,289] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:52:29,477] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:52:29,668] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:52:30,871] log.py->debug():112 -- DEBUG -- hiding task Gender
+[2017-07-16 14:52:30,871] log.py->debug():112 -- DEBUG -- showing task Macro modelling
+[2017-07-16 14:52:37,888] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:52:38,078] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:52:38,309] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:52:41,138] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:52:41,328] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:52:41,562] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:52:42,421] log.py->debug():112 -- DEBUG -- hiding task Macro modelling
+[2017-07-16 14:52:42,421] log.py->debug():112 -- DEBUG -- showing task Torso
+[2017-07-16 14:52:46,128] log.py->debug():112 -- DEBUG -- hiding task Torso
+[2017-07-16 14:52:46,128] log.py->debug():112 -- DEBUG -- showing task Arms and Legs
+[2017-07-16 14:52:46,877] log.py->debug():112 -- DEBUG -- hiding task Arms and Legs
+[2017-07-16 14:52:46,877] log.py->debug():112 -- DEBUG -- showing task Torso
+[2017-07-16 14:52:53,423] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:52:53,615] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:52:53,816] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:02,354] log.py->debug():112 -- DEBUG -- hiding task Torso
+[2017-07-16 14:53:02,355] log.py->debug():112 -- DEBUG -- showing task Face
+[2017-07-16 14:53:06,243] log.py->debug():112 -- DEBUG -- hiding task Face
+[2017-07-16 14:53:06,243] log.py->debug():112 -- DEBUG -- showing task Gender
+[2017-07-16 14:53:11,457] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:53:11,645] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:53:11,839] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:16,611] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:53:16,801] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:53:16,996] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:23,045] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:53:23,236] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:53:23,464] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:27,638] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:53:27,828] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:53:28,022] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:36,246] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:53:36,433] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:53:36,635] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:40,332] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:53:40,536] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:53:40,753] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:53:49,818] log.py->debug():112 -- DEBUG -- hiding task Gender
+[2017-07-16 14:53:49,818] log.py->debug():112 -- DEBUG -- showing task Face
+[2017-07-16 14:53:51,019] log.py->debug():112 -- DEBUG -- hiding task Face
+[2017-07-16 14:53:51,019] log.py->debug():112 -- DEBUG -- showing task Torso
+[2017-07-16 14:54:00,676] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:54:00,862] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:54:01,049] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:54:06,135] log.py->debug():112 -- DEBUG -- Updating skeleton joint positions
+[2017-07-16 14:54:06,322] log.py->debug():112 -- DEBUG -- Done baking animations
+[2017-07-16 14:54:06,540] log.py->message():133 -- MESSAGE -- do Change modifier
+[2017-07-16 14:54:26,400] log.py->debug():112 -- DEBUG -- hiding task Torso
+[2017-07-16 14:54:26,400] log.py->debug():112 -- DEBUG -- showing task Arms and Legs
+[2017-07-16 14:54:29,457] log.py->debug():112 -- DEBUG -- hiding task Arms and Legs
+[2017-07-16 14:54:29,457] log.py->debug():112 -- DEBUG -- showing task Custom
+[2017-07-16 14:54:30,486] log.py->debug():112 -- DEBUG -- hiding task Custom
+[2017-07-16 14:54:30,486] log.py->debug():112 -- DEBUG -- showing task Face
+[2017-07-16 14:55:03,341] log.py->debug():112 -- DEBUG -- hiding task Face
+[2017-07-16 14:55:03,341] log.py->debug():112 -- DEBUG -- showing task Gender
+[2017-07-16 14:55:06,803] log.py->debug():112 -- DEBUG -- hiding task Gender
+[2017-07-16 14:55:06,803] log.py->debug():112 -- DEBUG -- showing task Macro modelling
+[2017-07-16 14:55:11,437] log.py->debug():112 -- DEBUG -- hiding category Modelling
+[2017-07-16 14:55:11,437] log.py->debug():112 -- DEBUG -- showing category Geometries
+[2017-07-16 14:55:11,437] log.py->debug():112 -- DEBUG -- hiding task Macro modelling
+[2017-07-16 14:55:11,437] log.py->debug():112 -- DEBUG -- showing task Clothes
+[2017-07-16 14:55:14,838] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/clothes\fedora01\fedora.mhpxy" from clothes library.
+[2017-07-16 14:55:14,838] log.py->debug():112 -- DEBUG -- Loading binary proxy data/clothes\fedora01\fedora.mhpxy.
+[2017-07-16 14:55:14,931] log.py->debug():112 -- DEBUG -- Loading proxy file: data/clothes\fedora01\fedora.mhpxy.
+[2017-07-16 14:55:14,947] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/materials/fedora.mhmat
+[2017-07-16 14:55:15,025] log.py->debug():112 -- DEBUG -- VectorUniform(ambient) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,025] log.py->debug():112 -- DEBUG -- VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,025] log.py->debug():112 -- DEBUG -- VectorUniform(specular) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,025] log.py->debug():112 -- DEBUG -- VectorUniform(emissive) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Model
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Model
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Norma
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Front
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Front
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Front
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Front
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Front
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Front
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,040] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,056] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,072] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,088] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_Light
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- VectorUniform(ambient) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,102] log.py->debug():112 -- DEBUG -- VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,118] log.py->debug():112 -- DEBUG -- VectorUniform(specular) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,118] log.py->debug():112 -- DEBUG -- VectorUniform(emissive) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,134] log.py->debug():112 -- DEBUG -- VectorUniform(ambient) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,134] log.py->debug():112 -- DEBUG -- VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,134] log.py->debug():112 -- DEBUG -- VectorUniform(specular) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,134] log.py->debug():112 -- DEBUG -- VectorUniform(emissive) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewMa
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewPr
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_NormalMatri
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontLightM
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,150] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,165] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,180] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,197] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- VectorUniform(ambient) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,213] log.py->debug():112 -- DEBUG -- VectorUniform(specular) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,227] log.py->debug():112 -- DEBUG -- VectorUniform(emissive) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,227] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/fedora.npz.
+[2017-07-16 14:55:15,586] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:15,586] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora.obj
+[2017-07-16 14:55:15,602] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora proxy.
+[2017-07-16 14:55:15,618] log.py->debug():112 -- DEBUG -- 0 faces masked for base.obj
+[2017-07-16 14:55:15,664] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:15,696] log.py->debug():112 -- DEBUG -- VectorUniform(ambient) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,696] log.py->debug():112 -- DEBUG -- VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- VectorUniform(specular) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- VectorUniform(emissive) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewMa
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewPr
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_NormalMatri
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontMateri
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_FrontLightM
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,711] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,726] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,743] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,759] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_LightSource
+[2017-07-16 14:55:15,773] log.py->debug():112 -- DEBUG -- VectorUniform(ambient) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,789] log.py->debug():112 -- DEBUG -- VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,789] log.py->debug():112 -- DEBUG -- VectorUniform(specular) = [ 0.  0.  0.  0.]
+[2017-07-16 14:55:15,789] log.py->debug():112 -- DEBUG -- VectorUniform(emissive) = [ 0.  0.  0.]
+[2017-07-16 14:55:15,789] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/materials/fedora_texture.png.
+[2017-07-16 14:55:16,398] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:19,392] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/clothes\fedora01\fedora_cocked.mhpxy" from clothes library.
+[2017-07-16 14:55:19,392] log.py->debug():112 -- DEBUG -- Loading binary proxy data/clothes\fedora01\fedora_cocked.mhpxy.
+[2017-07-16 14:55:19,408] log.py->debug():112 -- DEBUG -- Loading proxy file: data/clothes\fedora01\fedora_cocked.mhpxy.
+[2017-07-16 14:55:19,424] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/materials/fedora.mhmat
+[2017-07-16 14:55:19,440] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/fedora_cocked.npz.
+[2017-07-16 14:55:19,752] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:19,752] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora.obj
+[2017-07-16 14:55:19,752] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora proxy.
+[2017-07-16 14:55:19,767] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:19,767] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:19,782] log.py->debug():112 -- DEBUG -- 0 faces masked for base.obj
+[2017-07-16 14:55:19,829] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:20,516] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:20,516] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:20,516] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:20,548] log.py->debug():112 -- DEBUG -- 0 faces masked for base.obj
+[2017-07-16 14:55:20,578] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:25,983] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/clothes\female_casualsuit02\female_casualsuit02.mhpxy" from clothes library.
+[2017-07-16 14:55:25,983] log.py->debug():112 -- DEBUG -- Loading binary proxy data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+[2017-07-16 14:55:26,062] log.py->debug():112 -- DEBUG -- Loading proxy file: data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+[2017-07-16 14:55:26,108] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02.mhmat
+[2017-07-16 14:55:26,140] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:26,140] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewMatr
+[2017-07-16 14:55:26,140] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProj
+[2017-07-16 14:55:26,140] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:26,154] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:26,154] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewMatr
+[2017-07-16 14:55:26,154] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProj
+[2017-07-16 14:55:26,154] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:26,171] log.py->debug():112 -- DEBUG -- VectorUniform(normalmapIntensity) = [ 0.]
+[2017-07-16 14:55:26,171] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:26,187] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewMatrix
+[2017-07-16 14:55:26,187] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProjec
+[2017-07-16 14:55:26,187] log.py->debug():112 -- DEBUG -- VectorUniform(normalmapIntensity) = [ 0.]
+[2017-07-16 14:55:26,187] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:26,187] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02.npz.
+[2017-07-16 14:55:26,967] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:26,967] log.py->debug():112 -- DEBUG -- 0 faces masked for female_casualsuit02.obj
+[2017-07-16 14:55:26,982] log.py->debug():112 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2017-07-16 14:55:26,982] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:26,982] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:26,997] log.py->debug():112 -- DEBUG -- 2612 faces masked for base.obj
+[2017-07-16 14:55:27,045] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:27,075] log.py->debug():112 -- DEBUG -- VectorUniform(normalmapIntensity) = [ 0.]
+[2017-07-16 14:55:27,075] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:27,075] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewMatrix
+[2017-07-16 14:55:27,091] log.py->debug():112 -- DEBUG -- Shader: adding built-in uniform gl_ModelViewProjec
+[2017-07-16 14:55:27,091] log.py->debug():112 -- DEBUG -- VectorUniform(normalmapIntensity) = [ 0.]
+[2017-07-16 14:55:27,091] log.py->debug():112 -- DEBUG -- VectorUniform(AdditiveShading) = [ 0.]
+[2017-07-16 14:55:27,091] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02_normal.png.
+[2017-07-16 14:55:28,806] log.py->debug():112 -- DEBUG -- initTexture: 4096, 4096, False
+[2017-07-16 14:55:28,822] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/litspheres/lit_matte.png.
+[2017-07-16 14:55:28,963] log.py->debug():112 -- DEBUG -- initTexture: 256, 256, False
+[2017-07-16 14:55:28,963] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02_diffuse.png.
+[2017-07-16 14:55:29,555] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:29,572] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02_ao.png.
+[2017-07-16 14:55:29,993] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:34,407] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy" from clothes library.
+[2017-07-16 14:55:34,407] log.py->debug():112 -- DEBUG -- Loading binary proxy data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+[2017-07-16 14:55:34,407] log.py->debug():112 -- DEBUG -- Loading proxy file: data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+[2017-07-16 14:55:34,454] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.mhmat
+[2017-07-16 14:55:34,486] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.npz.
+[2017-07-16 14:55:35,062] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:35,078] log.py->debug():112 -- DEBUG -- 0 faces masked for female_casualsuit02.obj
+[2017-07-16 14:55:35,078] log.py->debug():112 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2017-07-16 14:55:35,078] log.py->debug():112 -- DEBUG -- 927 faces masked for female_elegantsuit01.obj
+[2017-07-16 14:55:35,078] log.py->debug():112 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2017-07-16 14:55:35,078] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:35,078] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:35,094] log.py->debug():112 -- DEBUG -- 4123 faces masked for base.obj
+[2017-07-16 14:55:35,141] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:35,171] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01_normal.png.
+[2017-07-16 14:55:35,890] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:35,890] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01_diffuse.png.
+[2017-07-16 14:55:36,529] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:36,529] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01_ao.png.
+[2017-07-16 14:55:36,934] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:37,059] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:37,075] log.py->debug():112 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2017-07-16 14:55:37,075] log.py->debug():112 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2017-07-16 14:55:37,075] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:37,075] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:37,107] log.py->debug():112 -- DEBUG -- 4011 faces masked for base.obj
+[2017-07-16 14:55:37,184] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:40,071] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/clothes\female_sportsuit01\female_sportsuit01.mhpxy" from clothes library.
+[2017-07-16 14:55:40,071] log.py->debug():112 -- DEBUG -- Loading binary proxy data/clothes\female_sportsuit01\female_sportsuit01.mhpxy.
+[2017-07-16 14:55:40,085] log.py->debug():112 -- DEBUG -- Loading proxy file: data/clothes\female_sportsuit01\female_sportsuit01.mhpxy.
+[2017-07-16 14:55:40,132] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01.mhmat
+[2017-07-16 14:55:40,148] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01.npz.
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- 0 faces masked for female_sportsuit01.obj
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- 1129 faces masked for female_elegantsuit01.obj
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:40,678] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:40,694] log.py->debug():112 -- DEBUG -- 6296 faces masked for base.obj
+[2017-07-16 14:55:40,740] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:40,773] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01_normal.png.
+[2017-07-16 14:55:40,990] log.py->debug():112 -- DEBUG -- initTexture: 1024, 1024, False
+[2017-07-16 14:55:40,990] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01_diffuse.png.
+[2017-07-16 14:55:41,584] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:41,584] log.py->debug():112 -- DEBUG -- Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01_ao.png.
+[2017-07-16 14:55:41,989] log.py->debug():112 -- DEBUG -- initTexture: 2048, 2048, False
+[2017-07-16 14:55:42,114] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:42,114] log.py->debug():112 -- DEBUG -- 0 faces masked for female_sportsuit01.obj
+[2017-07-16 14:55:42,114] log.py->debug():112 -- DEBUG -- Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+[2017-07-16 14:55:42,130] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:42,130] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:42,161] log.py->debug():112 -- DEBUG -- 4460 faces masked for base.obj
+[2017-07-16 14:55:42,207] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:53,424] log.py->message():133 -- MESSAGE -- Selecting proxy file "data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy" from clothes library.
+[2017-07-16 14:55:53,424] log.py->debug():112 -- DEBUG -- Loading binary proxy data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+[2017-07-16 14:55:53,424] log.py->debug():112 -- DEBUG -- Loading proxy file: data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+[2017-07-16 14:55:53,470] log.py->debug():112 -- DEBUG -- Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.mhmat
+[2017-07-16 14:55:53,486] log.py->debug():112 -- DEBUG -- Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.npz.
+[2017-07-16 14:55:54,063] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:54,078] log.py->debug():112 -- DEBUG -- 0 faces masked for female_sportsuit01.obj
+[2017-07-16 14:55:54,078] log.py->debug():112 -- DEBUG -- Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+[2017-07-16 14:55:54,078] log.py->debug():112 -- DEBUG -- 1129 faces masked for female_elegantsuit01.obj
+[2017-07-16 14:55:54,078] log.py->debug():112 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2017-07-16 14:55:54,078] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:54,078] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:54,095] log.py->debug():112 -- DEBUG -- 6296 faces masked for base.obj
+[2017-07-16 14:55:54,141] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:55:54,220] log.py->debug():112 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2017-07-16 14:55:54,220] log.py->debug():112 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2017-07-16 14:55:54,234] log.py->debug():112 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2017-07-16 14:55:54,234] log.py->debug():112 -- DEBUG -- 0 faces masked for fedora_cocked.obj
+[2017-07-16 14:55:54,234] log.py->debug():112 -- DEBUG -- Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+[2017-07-16 14:55:54,250] log.py->debug():112 -- DEBUG -- 4011 faces masked for base.obj
+[2017-07-16 14:55:54,282] log.py->message():133 -- MESSAGE -- do Change clothes
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_obj
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_obj
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloading plugin 5_settings_shortcuts
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloaded plugin 5_settings_shortcuts
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloading plugin 4_rendering_scene
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloaded plugin 4_rendering_scene
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_collada
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_collada
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloading plugin 5_settings_0_settings
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloaded plugin 5_settings_0_settings
+[2017-07-16 14:56:19,023] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_clothes_chooser
+[2017-07-16 14:56:19,101] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_clothes_chooser
+[2017-07-16 14:56:19,101] log.py->message():133 -- MESSAGE -- Unloading plugin 5_settings_mouse
+[2017-07-16 14:56:19,101] log.py->message():133 -- MESSAGE -- Unloaded plugin 5_settings_mouse
+[2017-07-16 14:56:19,101] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_proxy_chooser
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_proxy_chooser
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 2_posing_expression
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 2_posing_expression
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 0_modeling_8_random
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 0_modeling_8_random
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_material_chooser
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_material_chooser
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 0_modeling_0_modifiers
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 0_modeling_0_modifiers
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_fbx
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_fbx
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_stl
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_stl
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 4_rendering_opengl
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 4_rendering_opengl
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_polygon_hair_chooser
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_polygon_hair_chooser
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 0_modeling_9_custom_targets
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 0_modeling_9_custom_targets
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_light
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_light
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_eyelashes
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_eyelashes
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 7_logging
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 7_logging
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 4_rendering_9_viewer
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 4_rendering_9_viewer
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_bvh
+[2017-07-16 14:56:19,117] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_bvh
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 2_foot_posing
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 2_foot_posing
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 6_help
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 6_help
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_skeleton
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_skeleton
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_eye_chooser
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_eye_chooser
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 7_expression_mixer
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 7_expression_mixer
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_tongue
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_tongue
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_teeth
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_teeth
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_mhx2
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_mhx2
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_pose
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_pose
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 0_modeling_background
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 0_modeling_background
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_uvmap
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_uvmap
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 0_modeling_a_measurement
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 0_modeling_a_measurement
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 9_export_ogre
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 9_export_ogre
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloading plugin 3_libraries_eyebrows
+[2017-07-16 14:56:19,132] log.py->message():133 -- MESSAGE -- Unloaded plugin 3_libraries_eyebrows

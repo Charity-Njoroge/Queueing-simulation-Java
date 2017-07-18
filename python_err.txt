@@ -1,0 +1,893 @@
+data/VERSION file detected using value from version file: 2128:2d119491670c
+Initialized logging
+VERSION: 1.1.1
+HG REVISION: r2128 (2d119491670c) [data/VERSION static revision data]
+SHORT VERSION: v1.1.1
+BASEMESH VERSION: hm08
+IS BUILT (FROZEN): Yes
+IS RELEASE VERSION: Yes
+DEFAULT ENCODING: utf-8
+FILESYSTEM ENCODING: mbcs
+STDOUT ENCODING: cp1252
+WORKING DIRECTORY: D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1
+HOME LOCATION: C:/Users/CHARITY/Documents
+PYTHON PATH: ./;./lib;./apps;./shared;./apps/gui;./core;D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1
+DLL PATH: .;D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\MySQL\MySQL Utilities\;C:\Program Files (x86)\MySQL\MySQL Utilities\Doctrine extensions for PHP\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\CHARITY\Anaconda3;C:\Users\CHARITY\Anaconda3\Scripts;C:\Users\CHARITY\Anaconda3\Library\bin
+SYS.VERSION: 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:42:59) [MSC v.1500 32 bit (Intel)]
+SYS.PLATFORM: win32
+SYS.EXECUTABLE: D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1\makehuman.exe
+PLATFORM.MACHINE: AMD64
+PLATFORM.PROCESSOR: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+PLATFORM.UNAME.RELEASE: 7
+PLATFORM.WIN32_VER: 7 6.1.7600 SP0 Multiprocessor Free
+NUMPY.VERSION: 1.11.2
+OpenGL_accelerate module loaded
+Using accelerated ArrayDatatype
+PYQT.VERSION: 4.8.7
+PYQT.JPG_SUPPORT: supported
+PYQT.SVG_SUPPORT: supported
+QT.PLUGIN_PATH: D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1\qt4_plugins;D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1
+QT.PLUGIN_PATH_ENV: 
+QT.CONF: [Paths]
+         Prefix = .
+         Plugins = qt4_plugins
+PYOPENGL.VERSION: 3.1.0
+GL.VENDOR: Intel
+GL.RENDERER: Intel(R) HD Graphics 4000
+GL.VERSION: 4.0.0 - Build 10.18.10.3304
+GLSL.VERSION: 4.00 - Build 10.18.10.3304
+Unable to load numpy_formathandler accelerator from OpenGL_accelerate
+GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+Creating new texture for image data/textures/texture_notfound.png.
+GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+initTexture: 256, 256, False
+Setting language to english
+Setting language to english
+Initializing default theme first.
+Theme default version 1.1.0
+Loaded theme data/themes/default.mht
+Using Qt system style windowsvista
+Loading human
+Loading binary mesh data/3dobjs/base.npz.
+Loading material from file data/skins/default.mhmat
+D:\NJAI FILES (do not delete)\video n audio editor\makehuman\makehuman1.1.1\OpenGL\GL\VERSION\GL_2_0.py:374: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewProj
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+Loaded vertex weights MakeHuman weights from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/rigs/default_weights.mhw
+Loading scene
+Loading scene file: data/scenes/default.mhscene
+Loading main GUI
+Assigning setting loaddir value C:/Users/CHARITY/Documents/makehuman/v1/models that was loaded before the setting was declared.
+Assigning setting savedir value D:\NJAI FILES (do not delete)\3d  models that was loaded before the setting was declared.
+Assigning setting exportdir value D:\NJAI FILES (do not delete)\3d  models that was loaded before the setting was declared.
+Loading plugins
+Importing plugin 0_modeling_0_modifiers
+Imported plugin 0_modeling_0_modifiers
+Loading plugin 0_modeling_0_modifiers
+Loading modifiers from data/modifiers/modeling_modifiers.json
+Attempting to load targets from NPZ file.
+1258 targets loaded from NPZ file succesfully.
+Loaded 249 modifiers from file data/modifiers/modeling_modifiers.json
+Loaded 249 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+Loaded plugin 0_modeling_0_modifiers
+Importing plugin 0_modeling_8_random
+Imported plugin 0_modeling_8_random
+Loading plugin 0_modeling_8_random
+Loaded plugin 0_modeling_8_random
+Importing plugin 0_modeling_9_custom_targets
+Imported plugin 0_modeling_9_custom_targets
+Loading plugin 0_modeling_9_custom_targets
+Loaded plugin 0_modeling_9_custom_targets
+Importing plugin 0_modeling_a_measurement
+Imported plugin 0_modeling_a_measurement
+Loading plugin 0_modeling_a_measurement
+Loading modifiers from data/modifiers/measurement_modifiers.json
+Loaded 20 modifiers from file data/modifiers/measurement_modifiers.json
+Loaded 20 modifier descriptions from file data/modifiers/measurement_modifiers_desc.json
+Loaded plugin 0_modeling_a_measurement
+Importing plugin 0_modeling_background
+Imported plugin 0_modeling_background
+Loading plugin 0_modeling_background
+Loaded plugin 0_modeling_background
+Importing plugin 2_foot_posing
+Imported plugin 2_foot_posing
+Loading plugin 2_foot_posing
+Loaded plugin 2_foot_posing
+Importing plugin 2_posing_expression
+Imported plugin 2_posing_expression
+Loading plugin 2_posing_expression
+Loaded plugin 2_posing_expression
+Importing plugin 3_libraries_clothes_chooser
+Imported plugin 3_libraries_clothes_chooser
+Loading plugin 3_libraries_clothes_chooser
+Loaded plugin 3_libraries_clothes_chooser
+Importing plugin 3_libraries_eye_chooser
+Imported plugin 3_libraries_eye_chooser
+Loading plugin 3_libraries_eye_chooser
+Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/eyes/materials/brown.mhmat
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewProj
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/eyes/high-poly/high-poly.npz.
+Loaded plugin 3_libraries_eye_chooser
+Importing plugin 3_libraries_eyebrows
+Imported plugin 3_libraries_eyebrows
+Loading plugin 3_libraries_eyebrows
+Loaded plugin 3_libraries_eyebrows
+Importing plugin 3_libraries_eyelashes
+Imported plugin 3_libraries_eyelashes
+Loading plugin 3_libraries_eyelashes
+Loaded plugin 3_libraries_eyelashes
+Importing plugin 3_libraries_material_chooser
+Imported plugin 3_libraries_material_chooser
+Loading plugin 3_libraries_material_chooser
+Loaded plugin 3_libraries_material_chooser
+Importing plugin 3_libraries_polygon_hair_chooser
+Imported plugin 3_libraries_polygon_hair_chooser
+Loading plugin 3_libraries_polygon_hair_chooser
+Loaded plugin 3_libraries_polygon_hair_chooser
+Importing plugin 3_libraries_pose
+Imported plugin 3_libraries_pose
+Loading plugin 3_libraries_pose
+Loaded plugin 3_libraries_pose
+Importing plugin 3_libraries_proxy_chooser
+Imported plugin 3_libraries_proxy_chooser
+Loading plugin 3_libraries_proxy_chooser
+Loaded plugin 3_libraries_proxy_chooser
+Importing plugin 3_libraries_skeleton
+Imported plugin 3_libraries_skeleton
+Loading plugin 3_libraries_skeleton
+Loaded plugin 3_libraries_skeleton
+Importing plugin 3_libraries_teeth
+Imported plugin 3_libraries_teeth
+Loading plugin 3_libraries_teeth
+Loaded plugin 3_libraries_teeth
+Importing plugin 3_libraries_tongue
+Imported plugin 3_libraries_tongue
+Loading plugin 3_libraries_tongue
+Loaded plugin 3_libraries_tongue
+Importing plugin 4_rendering_9_viewer
+Imported plugin 4_rendering_9_viewer
+Loading plugin 4_rendering_9_viewer
+Loaded plugin 4_rendering_9_viewer
+Importing plugin 4_rendering_opengl
+Imported plugin 4_rendering_opengl
+Loading plugin 4_rendering_opengl
+Assigning setting rendering_width value 800 that was loaded before the setting was declared.
+Assigning setting rendering_height value 600 that was loaded before the setting was declared.
+Assigning setting GL_RENDERER_SSS value False that was loaded before the setting was declared.
+Assigning setting GL_RENDERER_AA value True that was loaded before the setting was declared.
+Loaded plugin 4_rendering_opengl
+Importing plugin 4_rendering_scene
+Imported plugin 4_rendering_scene
+Loading plugin 4_rendering_scene
+Setting rendering_width is already declared. Adding it again has no effect.
+Setting rendering_height is already declared. Adding it again has no effect.
+Loaded plugin 4_rendering_scene
+Importing plugin 5_settings_0_settings
+Imported plugin 5_settings_0_settings
+Loading plugin 5_settings_0_settings
+Setting language to english
+Theme makehuman version 1.1.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Loaded plugin 5_settings_0_settings
+Importing plugin 5_settings_mouse
+Imported plugin 5_settings_mouse
+Loading plugin 5_settings_mouse
+Loaded plugin 5_settings_mouse
+Importing plugin 5_settings_shortcuts
+Imported plugin 5_settings_shortcuts
+Loading plugin 5_settings_shortcuts
+Loaded plugin 5_settings_shortcuts
+Importing plugin 6_help
+Imported plugin 6_help
+Loading plugin 6_help
+Loaded plugin 6_help
+Importing plugin 7_expression_mixer
+Imported plugin 7_expression_mixer
+Loading plugin 7_expression_mixer
+Loaded plugin 7_expression_mixer
+Importing plugin 7_logging
+Imported plugin 7_logging
+Loading plugin 7_logging
+Loaded plugin 7_logging
+Importing plugin 9_export_bvh
+Imported plugin 9_export_bvh
+Loading plugin 9_export_bvh
+Loaded plugin 9_export_bvh
+Importing plugin 9_export_collada
+Imported plugin 9_export_collada
+Loading plugin 9_export_collada
+Loaded plugin 9_export_collada
+Importing plugin 9_export_fbx
+Imported plugin 9_export_fbx
+Loading plugin 9_export_fbx
+Loaded plugin 9_export_fbx
+Importing plugin 9_export_light
+Imported plugin 9_export_light
+Loading plugin 9_export_light
+Loaded plugin 9_export_light
+Importing plugin 9_export_mhx2
+Imported plugin 9_export_mhx2
+Loading plugin 9_export_mhx2
+Loaded plugin 9_export_mhx2
+Importing plugin 9_export_obj
+Imported plugin 9_export_obj
+Loading plugin 9_export_obj
+Loaded plugin 9_export_obj
+Importing plugin 9_export_ogre
+Imported plugin 9_export_ogre
+Loading plugin 9_export_ogre
+Loaded plugin 9_export_ogre
+Importing plugin 9_export_stl
+Imported plugin 9_export_stl
+Loading plugin 9_export_stl
+Loaded plugin 9_export_stl
+Importing plugin 9_export_uvmap
+Imported plugin 9_export_uvmap
+Loading plugin 9_export_uvmap
+Loaded plugin 9_export_uvmap
+Loading GUI
+showing category Modelling
+showing task Macro modelling
+Loading theme
+Theme makehuman version 1.1.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Applying targets
+Updating skeleton joint positions
+Done baking animations
+Loading macro targets
+Loading done
+
+Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+initTexture: 256, 256, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/litspheres/skinmat_eye.png.
+initTexture: 256, 256, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/eyes/materials/brown_eye.png.
+initTexture: 1024, 1024, False
+hiding task Macro modelling
+showing task Face
+hiding task Face
+showing task Arms and Legs
+hiding task Arms and Legs
+showing task Torso
+hiding task Torso
+showing task Face
+hiding task Face
+showing task Gender
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+hiding task Gender
+showing task Macro modelling
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+hiding task Macro modelling
+showing task Torso
+hiding task Torso
+showing task Arms and Legs
+hiding task Arms and Legs
+showing task Torso
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+hiding task Torso
+showing task Face
+hiding task Face
+showing task Gender
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+hiding task Gender
+showing task Face
+hiding task Face
+showing task Torso
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+Updating skeleton joint positions
+Done baking animations
+do Change modifier
+hiding task Torso
+showing task Arms and Legs
+hiding task Arms and Legs
+showing task Custom
+hiding task Custom
+showing task Face
+hiding task Face
+showing task Gender
+hiding task Gender
+showing task Macro modelling
+hiding category Modelling
+showing category Geometries
+hiding task Macro modelling
+showing task Clothes
+Selecting proxy file "data/clothes\fedora01\fedora.mhpxy" from clothes library.
+Loading binary proxy data/clothes\fedora01\fedora.mhpxy.
+Loading proxy file: data/clothes\fedora01\fedora.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/materials/fedora.mhmat
+VectorUniform(ambient) = [ 0.  0.  0.]
+VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+VectorUniform(specular) = [ 0.  0.  0.  0.]
+VectorUniform(emissive) = [ 0.  0.  0.]
+Shader: adding built-in uniform gl_Model
+Shader: adding built-in uniform gl_Model
+Shader: adding built-in uniform gl_Norma
+Shader: adding built-in uniform gl_Front
+Shader: adding built-in uniform gl_Front
+Shader: adding built-in uniform gl_Front
+Shader: adding built-in uniform gl_Front
+Shader: adding built-in uniform gl_Front
+Shader: adding built-in uniform gl_Front
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+Shader: adding built-in uniform gl_Light
+VectorUniform(ambient) = [ 0.  0.  0.]
+VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+VectorUniform(specular) = [ 0.  0.  0.  0.]
+VectorUniform(emissive) = [ 0.  0.  0.]
+VectorUniform(ambient) = [ 0.  0.  0.]
+VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+VectorUniform(specular) = [ 0.  0.  0.  0.]
+VectorUniform(emissive) = [ 0.  0.  0.]
+Shader: adding built-in uniform gl_ModelViewMa
+Shader: adding built-in uniform gl_ModelViewPr
+Shader: adding built-in uniform gl_NormalMatri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontLightM
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+VectorUniform(ambient) = [ 0.  0.  0.]
+VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+VectorUniform(specular) = [ 0.  0.  0.  0.]
+VectorUniform(emissive) = [ 0.  0.  0.]
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/fedora.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for fedora.obj
+Loaded 0 deleted verts (0 faces) from fedora proxy.
+0 faces masked for base.obj
+do Change clothes
+VectorUniform(ambient) = [ 0.  0.  0.]
+VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+VectorUniform(specular) = [ 0.  0.  0.  0.]
+VectorUniform(emissive) = [ 0.  0.  0.]
+Shader: adding built-in uniform gl_ModelViewMa
+Shader: adding built-in uniform gl_ModelViewPr
+Shader: adding built-in uniform gl_NormalMatri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontMateri
+Shader: adding built-in uniform gl_FrontLightM
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+Shader: adding built-in uniform gl_LightSource
+VectorUniform(ambient) = [ 0.  0.  0.]
+VectorUniform(diffuse) = [ 0.  0.  0.  0.]
+VectorUniform(specular) = [ 0.  0.  0.  0.]
+VectorUniform(emissive) = [ 0.  0.  0.]
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/materials/fedora_texture.png.
+initTexture: 2048, 2048, False
+Selecting proxy file "data/clothes\fedora01\fedora_cocked.mhpxy" from clothes library.
+Loading binary proxy data/clothes\fedora01\fedora_cocked.mhpxy.
+Loading proxy file: data/clothes\fedora01\fedora_cocked.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/materials/fedora.mhmat
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/fedora01/fedora_cocked.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for fedora.obj
+Loaded 0 deleted verts (0 faces) from fedora proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+0 faces masked for base.obj
+do Change clothes
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+0 faces masked for base.obj
+do Change clothes
+Selecting proxy file "data/clothes\female_casualsuit02\female_casualsuit02.mhpxy" from clothes library.
+Loading binary proxy data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+Loading proxy file: data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02.mhmat
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewMatr
+Shader: adding built-in uniform gl_ModelViewProj
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewMatr
+Shader: adding built-in uniform gl_ModelViewProj
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(normalmapIntensity) = [ 0.]
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewMatrix
+Shader: adding built-in uniform gl_ModelViewProjec
+VectorUniform(normalmapIntensity) = [ 0.]
+VectorUniform(AdditiveShading) = [ 0.]
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_casualsuit02.obj
+Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+2612 faces masked for base.obj
+do Change clothes
+VectorUniform(normalmapIntensity) = [ 0.]
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewMatrix
+Shader: adding built-in uniform gl_ModelViewProjec
+VectorUniform(normalmapIntensity) = [ 0.]
+VectorUniform(AdditiveShading) = [ 0.]
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02_normal.png.
+initTexture: 4096, 4096, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/litspheres/lit_matte.png.
+initTexture: 256, 256, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02_diffuse.png.
+initTexture: 2048, 2048, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_casualsuit02/female_casualsuit02_ao.png.
+initTexture: 2048, 2048, False
+Selecting proxy file "data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy" from clothes library.
+Loading binary proxy data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+Loading proxy file: data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.mhmat
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_casualsuit02.obj
+Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+927 faces masked for female_elegantsuit01.obj
+Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+4123 faces masked for base.obj
+do Change clothes
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01_normal.png.
+initTexture: 2048, 2048, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01_diffuse.png.
+initTexture: 2048, 2048, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01_ao.png.
+initTexture: 2048, 2048, False
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_elegantsuit01.obj
+Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+4011 faces masked for base.obj
+do Change clothes
+Selecting proxy file "data/clothes\female_sportsuit01\female_sportsuit01.mhpxy" from clothes library.
+Loading binary proxy data/clothes\female_sportsuit01\female_sportsuit01.mhpxy.
+Loading proxy file: data/clothes\female_sportsuit01\female_sportsuit01.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01.mhmat
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_sportsuit01.obj
+Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+1129 faces masked for female_elegantsuit01.obj
+Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+6296 faces masked for base.obj
+do Change clothes
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01_normal.png.
+initTexture: 1024, 1024, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01_diffuse.png.
+initTexture: 2048, 2048, False
+Creating new texture for image D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_sportsuit01/female_sportsuit01_ao.png.
+initTexture: 2048, 2048, False
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_sportsuit01.obj
+Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+4460 faces masked for base.obj
+do Change clothes
+Selecting proxy file "data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy" from clothes library.
+Loading binary proxy data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+Loading proxy file: data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+Loading material from file D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.mhmat
+Loading binary mesh D:/NJAI FILES (do not delete)/video n audio editor/makehuman/makehuman1.1.1/data/clothes/female_elegantsuit01/female_elegantsuit01.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_sportsuit01.obj
+Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+1129 faces masked for female_elegantsuit01.obj
+Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+6296 faces masked for base.obj
+do Change clothes
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for female_elegantsuit01.obj
+Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+0 faces masked for fedora_cocked.obj
+Loaded 0 deleted verts (0 faces) from fedora_cocked proxy.
+4011 faces masked for base.obj
+do Change clothes
+Unloading plugin 9_export_obj
+Unloaded plugin 9_export_obj
+Unloading plugin 5_settings_shortcuts
+Unloaded plugin 5_settings_shortcuts
+Unloading plugin 4_rendering_scene
+Unloaded plugin 4_rendering_scene
+Unloading plugin 9_export_collada
+Unloaded plugin 9_export_collada
+Unloading plugin 5_settings_0_settings
+Unloaded plugin 5_settings_0_settings
+Unloading plugin 3_libraries_clothes_chooser
+Unloaded plugin 3_libraries_clothes_chooser
+Unloading plugin 5_settings_mouse
+Unloaded plugin 5_settings_mouse
+Unloading plugin 3_libraries_proxy_chooser
+Unloaded plugin 3_libraries_proxy_chooser
+Unloading plugin 2_posing_expression
+Unloaded plugin 2_posing_expression
+Unloading plugin 0_modeling_8_random
+Unloaded plugin 0_modeling_8_random
+Unloading plugin 3_libraries_material_chooser
+Unloaded plugin 3_libraries_material_chooser
+Unloading plugin 0_modeling_0_modifiers
+Unloaded plugin 0_modeling_0_modifiers
+Unloading plugin 9_export_fbx
+Unloaded plugin 9_export_fbx
+Unloading plugin 9_export_stl
+Unloaded plugin 9_export_stl
+Unloading plugin 4_rendering_opengl
+Unloaded plugin 4_rendering_opengl
+Unloading plugin 3_libraries_polygon_hair_chooser
+Unloaded plugin 3_libraries_polygon_hair_chooser
+Unloading plugin 0_modeling_9_custom_targets
+Unloaded plugin 0_modeling_9_custom_targets
+Unloading plugin 9_export_light
+Unloaded plugin 9_export_light
+Unloading plugin 3_libraries_eyelashes
+Unloaded plugin 3_libraries_eyelashes
+Unloading plugin 7_logging
+Unloaded plugin 7_logging
+Unloading plugin 4_rendering_9_viewer
+Unloaded plugin 4_rendering_9_viewer
+Unloading plugin 9_export_bvh
+Unloaded plugin 9_export_bvh
+Unloading plugin 2_foot_posing
+Unloaded plugin 2_foot_posing
+Unloading plugin 6_help
+Unloaded plugin 6_help
+Unloading plugin 3_libraries_skeleton
+Unloaded plugin 3_libraries_skeleton
+Unloading plugin 3_libraries_eye_chooser
+Unloaded plugin 3_libraries_eye_chooser
+Unloading plugin 7_expression_mixer
+Unloaded plugin 7_expression_mixer
+Unloading plugin 3_libraries_tongue
+Unloaded plugin 3_libraries_tongue
+Unloading plugin 3_libraries_teeth
+Unloaded plugin 3_libraries_teeth
+Unloading plugin 9_export_mhx2
+Unloaded plugin 9_export_mhx2
+Unloading plugin 3_libraries_pose
+Unloaded plugin 3_libraries_pose
+Unloading plugin 0_modeling_background
+Unloaded plugin 0_modeling_background
+Unloading plugin 9_export_uvmap
+Unloaded plugin 9_export_uvmap
+Unloading plugin 0_modeling_a_measurement
+Unloaded plugin 0_modeling_a_measurement
+Unloading plugin 9_export_ogre
+Unloaded plugin 9_export_ogre
+Unloading plugin 3_libraries_eyebrows
+Unloaded plugin 3_libraries_eyebrows
